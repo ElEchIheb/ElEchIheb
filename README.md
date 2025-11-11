@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/IhebElEch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Iheb+El+Ech;Full-Stack,Ai+Developer+%26+DevOps+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Iheb+El+Ech;.......Intelligent+Full-Stack+Developer+%26+DevOps+Practitioner....." alt="Typing SVG" />
   </a>
 </p>
 # 💫 About Me:
