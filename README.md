@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/IhebElEch">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Iheb+El+Ech;Intelligent+Full-Stack+Developer+%26+DevOps+Practitioner" alt="Typing SVG" />
+  </a>
+</p>
 # 💫 About Me:
 
 🎓 Intelligent Full-Stack Developer & DevOps Practitioner 🚀<br><br>Hello there! 👋 I'm Iheb El Ech, a rigorous and proactive Software Engineer currently pursuing a Master's in Intelligent Web Applications. I specialize in creating robust web and mobile solutions using powerful stacks like Symfony, Angular, and Express.js. My passion lies in integrating Artificial Intelligence (AI) 🤖 (NLP, Deep Learning) to build truly smart and efficient systems. From design to deployment (DevOps included! 🛠️), I'm ready to fully engage in complex projects and deliver excellence. Solving problems is what I do best!💡
